@@ -1,0 +1,10 @@
+{
+  "test1": {
+    "name": "Oleg",
+    "password": "qwerty"
+  },
+  "test2":{
+    "name": "Ivan",
+    "password":"123456"
+  }
+}
